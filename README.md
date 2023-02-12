@@ -7,4 +7,3 @@ My name is Chris Durand, and I'm a full stack software engineer with experience 
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-durand/)
 - Check out [Gander](https://gander-framework.github.io), an open source drop-in solution for generating full stack review apps 
-- Here's an example of Gander working on a simple python crud app: https://github.com/ChristopherDurand/python-demo/pulls
